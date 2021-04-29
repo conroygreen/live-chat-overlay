@@ -3,12 +3,12 @@
     --keyer-bg-color: #000; /* change for a chroma key if you want, beware profile avatars may key out */
     --comment-color: #fff;
     --comment-bg-color: #222; /* needs to be slightly above black to not get keyed out */
-    --comment-border-radius: 0px;
+    --comment-border-radius: 6px;
     --comment-font-size: 40px;
     --author-color: #222;
     --author-bg-color: #ffa500;
     --author-avatar-border-color: #ffa500;
-    --author-border-radius: 0px;
+    --author-border-radius: 6px;
     --author-avatar-border-size: 3px;
     --author-avatar-size: 128px;
     --author-font-size: 30px;
