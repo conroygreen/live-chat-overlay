@@ -1,7 +1,7 @@
 :root {
     /* basic colors */
     --keyer-bg-color: #000; /* change for a chroma key if you want, beware profile avatars may key out */
-    --comment-color: #fff;
+    --comment-color: #f7f3e4;
     --comment-bg-color: #f0f0dd; /* needs to be slightly above black to not get keyed out */
     --comment-border-radius: 12px;
     --comment-font-size: 40px;
