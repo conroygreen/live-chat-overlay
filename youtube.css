@@ -5,7 +5,7 @@
     --comment-bg-color: #e6dedc; /* needs to be slightly above black to not get keyed out */
     --comment-border-radius: 15px;
     --comment-font-size: 40px;
-    --author-color: #222;
+    --author-color: #e6dedc;
     --author-bg-color: #651108;
     --author-avatar-border-color: #651108;
     --author-border-radius: 20px;
